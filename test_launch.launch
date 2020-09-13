@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+<!-- Iniciamos turtle sim-->    
+<node
+ pkg="turlesim"
+ type="turtlesim_node"
+  name="tortuga"
+   />
+
+
+</launch>
